@@ -1,0 +1,28 @@
+.main-body {
+    background-image: url(./background-4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    color: white;
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.card-body{
+    padding: 20px;
+    margin: 20px;
+}
+
+.card {
+    margin-bottom: 35px;
+    margin-left: 35px;
+    backdrop-filter: blur(3px);
+    background-color: rgba(255, 255, 255, 0.2);
+    color:white;
+    border-radius: 10px;
+}
+
+
+
