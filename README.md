@@ -3,47 +3,35 @@
 2. [Technologies](#technologies)
 3. [Installation](#installation)
 4. [Collaboration](#collaboration)
-5. [FAQs](#faqs)
+5. [Video Walkthrough](#video-walkthrough)
+6. [FAQs](#faqs)
 ### General Info
 ***
-Write down general information about your project. It is a good idea to always put a project status in the readme file. This is where you can add it. 
+This is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![Screenshot (38)](https://user-images.githubusercontent.com/116799866/214688347-b666cbb6-be5c-4a93-99d2-340d72111941.png)
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technology name](https://example.com): Version 12.3 
-* [Technology name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [JavaScript](https://example.com)
+* [Node.js](https://nodejs.org/en/download/): Version 18.13.0
+* [Jest](https://jestjs.io/): Version 29.4
 ## Installation
 ***
-A little intro about the installation. 
+To install this application, run the program in your default code editor. Open the command terminal and enter 'node index.js'. Follow the prompts in the terminal, and once finished a HTML file will be generated containing the data provided from the user's answers.
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
+$ git clone http GOES HERE
+$ open command terminal
+$ node index.js
+$ follow prompts
 ```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
 ## Collaboration
 ***
-Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> Should it encompass several lines?
-> This is how you do it.
+This is an open source project, feel free to collaborate, clone and improve this application.
+## Video Walkthrough
+***
+LINK TO WALKTHROUGH GOES HERE
 ## FAQs
 ***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer to the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question, we use an unordered list:
-* First point
-* Second Point
-* Third point
-3. **Third question in bold**
-Answer to the third question with *italic words*.
-4. **Fourth question in bold**
-| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
-|:--------------|:-------------:|--------------:|
-| text-align left | text-align center | text-align right |
+**Contact Info**
+You can contact me with questions at taylorindia92@gmail.com 
