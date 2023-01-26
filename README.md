@@ -20,7 +20,7 @@ A list of technologies used within the project:
 ***
 To install this application, run the program in your default code editor. Open the command terminal and enter 'node index.js'. Follow the prompts in the terminal, and once finished a HTML file will be generated containing the data provided from the user's answers.
 ```
-$ git clone http GOES HERE
+$ git clone https://github.com/indiataylor1/team-generator.git
 $ open command terminal
 $ node index.js
 $ follow prompts
@@ -30,7 +30,7 @@ $ follow prompts
 This is an open source project, feel free to collaborate, clone and improve this application.
 ## Video Walkthrough
 ***
-LINK TO WALKTHROUGH GOES HERE
+https://drive.google.com/file/d/1E9DUDMcywU_1vap3l_LfYzXiyoz1iSPe/view
 ## FAQs
 ***
 **Contact Info**
